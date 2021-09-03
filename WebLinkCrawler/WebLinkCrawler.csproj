@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>WebLinkCrawler.Program</StartupObject>
+    <ApplicationIcon />
+    <Description>WebLinkCrawler is a non-async web links crawler</Description>
+    <RepositoryUrl>https://github.com/davidezechukwu/WebLinkCrawler</RepositoryUrl>
+    <PackageReleaseNotes>A Simple None-Asynch Web Link Crawler</PackageReleaseNotes>
+    <Copyright />
+    <PackageLicenseExpression>BSD-3-Clause License</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/davidezechukwu/WebLinkCrawler</PackageProjectUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>A Simple Web Crawler Decode David Ezechukwu Code</PackageTags>
+  </PropertyGroup>
+
+</Project>

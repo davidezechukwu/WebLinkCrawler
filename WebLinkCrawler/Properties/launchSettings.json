@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebLinkCrawler": {
+      "commandName": "Project",
+      "commandLineArgs": "http://garzin.uk  20"
+    }
+  }
+}
